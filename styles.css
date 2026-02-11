@@ -182,17 +182,17 @@ footer {
   line-height: 1;
 }
 
-.logo-text .geo {
+.logo-text .red {
   font-size: 2.6rem;
-  color: #f1c40f; /* amarillo */
+  color: #c0392b; /* rojo */
 }
 
-.logo-text .tec {
+.logo-text .garnet {
   font-size: 2.6rem;
   color: #ffffff;
 }
 
-.logo-text .servicios {
+.logo-text .geoservicios {
   position: absolute;
   right: 0;
   bottom: -1.1rem;
@@ -210,4 +210,5 @@ footer {
 }
 .hero-topografia {
   background-image: url("../img/servicios/impacto.jpg");
+
 }
